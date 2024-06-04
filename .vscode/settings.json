@@ -1,0 +1,15 @@
+{
+  "nrf-connect.applications": [
+    "${workspaceFolder}/nrf5340_audio",
+    "${workspaceFolder}/headphones_microphone",
+    "${workspaceFolder}/headset",
+    "${workspaceFolder}/unicast_audio_server",
+    "${workspaceFolder}/broadcast_audio_source",
+    "${workspaceFolder}/dmic",
+    "${workspaceFolder}/i2s",
+    "${workspaceFolder}/echo",
+    "${workspaceFolder}/unicast_audio_client",
+    "${workspaceFolder}/radio_test",
+    "${workspaceFolder}/broadcast_audio_sink"
+  ]
+}
